@@ -1,0 +1,13 @@
+{
+  "nome": "Node2021-Rocketseat",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "uuid": "^9.0.0"
+  }
+}
